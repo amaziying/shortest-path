@@ -1,5 +1,7 @@
 # Traveling Tourist
 
+Check out our submission on [devpost](http://devpost.com/software/shortest-path)!
+
 Plan your tourist trips, maximize value, minimize hassle, with ease.
 
 
